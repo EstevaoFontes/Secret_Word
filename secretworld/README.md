@@ -1,6 +1,18 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um projeto usando React + Vite, para treinar e me aprofundar mais nos conceitos de Front-End no Javascript e suas Bibliotecas e Framwork.
+
+Este projeto é um simples jogo, onde se deve adivinhar qual a palavra que foi selecionada de forma aleatória.
+
+Foi usado nesse projeto = {
+Componentização,
+Hooks: ( useEffect, useState, useCallback ),
+CSS no React,
+Renderização de componentes,
+manipulação de array,
+função setTimeOut
+}
+
 
 Currently, two official plugins are available:
 
